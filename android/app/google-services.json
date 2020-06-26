@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "121602254366",
+    "firebase_url": "https://sbph-78958.firebaseio.com",
+    "project_id": "sbph-78958",
+    "storage_bucket": "sbph-78958.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121602254366:android:50b2749d0bc6eb22e1f00f",
+        "android_client_info": {
+          "package_name": "com.example.sbph_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121602254366-jtqjd24t1q2p2m755s4kg0uv18go77qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYxHgsaMGSJkxLAwNfgCQy01GWxW_Mpws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121602254366-jtqjd24t1q2p2m755s4kg0uv18go77qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
