@@ -21,6 +21,7 @@ class HomeView extends StatelessWidget {
     return ViewModelProvider<HomeViewModel>.withConsumer(
       viewModel: HomeViewModel(),
       builder: (context, model, child) => Scaffold(
+        backgroundColor: Colors.white,
         body: SingleChildScrollView(
           padding: EdgeInsets.symmetric(horizontal: screenWidth(context)/8, vertical: screenHeight(context)/4),
           child: Column(

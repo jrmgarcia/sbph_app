@@ -21,6 +21,7 @@ class SignUpView extends StatelessWidget {
     return ViewModelProvider<SignUpViewModel>.withConsumer(
       viewModel: SignUpViewModel(),
       builder: (context, model, child) => Scaffold(
+        backgroundColor: Colors.white,
         body: SingleChildScrollView(
           padding: EdgeInsets.symmetric(horizontal: screenWidth(context)/8, vertical: screenHeight(context)/6),
           child: Column(
